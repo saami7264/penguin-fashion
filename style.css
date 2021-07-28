@@ -1,0 +1,26 @@
+/* Header Styles */
+.header-background{
+    background-color: #FFF9F4;
+}
+.title-one{
+    color: #FA804C;
+    font-weight: 700;
+    font-size: 60px;
+}
+.title-two{
+    color: navy;
+    font-weight: 700;
+    font-size: 60px;
+}
+/* Casual Shoes Section Styles */
+.casual-shoes{
+    color: navy;
+    font-size: 48px;
+    font-weight: 700;
+}
+.price{
+    color: #FA804C;
+}
+.casual-background{
+    background-color: #F1F1F1;
+}
